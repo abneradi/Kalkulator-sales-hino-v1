@@ -1,0 +1,2287 @@
+{
+  "generated": "2026-10-06",
+  "off_source": "Pilihan OFF: SPV, BM, atau Tengah (BM+SPV)/2 dibulatkan ke Rp500.000",
+  "models": [
+    {
+      "series": "Hino 300",
+      "type": "115SD STD",
+      "code": "XZU309R-HKMLAD3",
+      "off_spv": 339710000,
+      "bm": 332888000,
+      "pricelist_otr": 488700000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 336500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115SDR STD",
+      "code": "XZU309R-HKMLAD8",
+      "off_spv": 340590000,
+      "bm": 333752000,
+      "pricelist_otr": 489500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 337000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115SDL STD",
+      "code": "XZU349R-HKMLAD8",
+      "off_spv": 348070000,
+      "bm": 341096000,
+      "pricelist_otr": 502700000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 344500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115LD STD",
+      "code": "XZU349R-HKMQAD8",
+      "off_spv": 400064000,
+      "bm": 392072000,
+      "pricelist_otr": 550400000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19875000,
+          "Box": null,
+          "Dump": 21125000,
+          "Tangki/Damkar": 24250000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19875000
+        }
+      },
+      "off_tengah": 396000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115HD STD",
+      "code": "XZU349R-HKMRAD3",
+      "off_spv": 405623000,
+      "bm": 397529000,
+      "pricelist_otr": 557800000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 38000000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 44000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 37000000,
+          "Other": 38000000
+        },
+        "Kuning": {
+          "Bak Besi": 20625000,
+          "Box": null,
+          "Dump": 21875000,
+          "Tangki/Damkar": 25000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 20625000
+        }
+      },
+      "off_tengah": 401500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136MD STD",
+      "code": "XZU349R-HKMRBD8",
+      "off_spv": 415624000,
+      "bm": 409282000,
+      "pricelist_otr": 585500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 46500000,
+          "Box": null,
+          "Dump": 47500000,
+          "Tangki/Damkar": 52000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 46000000,
+          "Other": 46500000
+        },
+        "Kuning": {
+          "Bak Besi": 25250000,
+          "Box": null,
+          "Dump": 26500000,
+          "Tangki/Damkar": 29625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 25250000
+        }
+      },
+      "off_tengah": 412500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136MDL STD",
+      "code": "XZU359R-HKMRBD8",
+      "off_spv": 427072000,
+      "bm": 420571000,
+      "pricelist_otr": 596600000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 46500000,
+          "Box": null,
+          "Dump": 47500000,
+          "Tangki/Damkar": 52000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 46000000,
+          "Other": 46500000
+        },
+        "Kuning": {
+          "Bak Besi": 25250000,
+          "Box": null,
+          "Dump": 26500000,
+          "Tangki/Damkar": 29625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 25250000
+        }
+      },
+      "off_tengah": 424000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136MDLR (NEW)",
+      "code": "",
+      "off_spv": 445972000,
+      "bm": 439208500,
+      "pricelist_otr": 614100000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 50500000,
+          "Box": null,
+          "Dump": 47500000,
+          "Tangki/Damkar": 52000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 46000000,
+          "Other": 50500000
+        },
+        "Kuning": {
+          "Bak Besi": 25250000,
+          "Box": null,
+          "Dump": 26500000,
+          "Tangki/Damkar": 29625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 25250000
+        }
+      },
+      "off_tengah": 442500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDL 6.4",
+      "code": "XZU359R-HKFTBD8",
+      "off_spv": 439548000,
+      "bm": 432901500,
+      "pricelist_otr": 606000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 40500000,
+          "Box": null,
+          "Dump": 42500000,
+          "Tangki/Damkar": 47000000,
+          "Crane": 41500000,
+          "Self Loader": 41500000,
+          "Car Carrier": 40000000,
+          "Other": 40500000
+        },
+        "Kuning": {
+          "Bak Besi": 21500000,
+          "Box": null,
+          "Dump": 22750000,
+          "Tangki/Damkar": 25875000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 21500000
+        }
+      },
+      "off_tengah": 436000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDL 6.4 6X2",
+      "code": "",
+      "off_spv": 712222000,
+      "bm": 701591500,
+      "pricelist_otr": 865500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 707000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDL 4X4",
+      "code": "",
+      "off_spv": 822073500,
+      "bm": 814354500,
+      "pricelist_otr": 918100000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 818000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HD 6.8",
+      "code": "XZU349R-HKMTBD3",
+      "off_spv": 424536000,
+      "bm": 418098000,
+      "pricelist_otr": 591600000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 44500000,
+          "Box": null,
+          "Dump": 44000000,
+          "Tangki/Damkar": 50500000,
+          "Crane": 45500000,
+          "Self Loader": 45500000,
+          "Car Carrier": 43500000,
+          "Other": 44500000
+        },
+        "Kuning": {
+          "Bak Besi": 23750000,
+          "Box": null,
+          "Dump": 25000000,
+          "Tangki/Damkar": 28125000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 23750000
+        }
+      },
+      "off_tengah": 421500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HD 6.4",
+      "code": "X7U349R-HKMTBD3-1",
+      "off_spv": 421944000,
+      "bm": 415542000,
+      "pricelist_otr": 589200000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 44500000,
+          "Box": null,
+          "Dump": 44000000,
+          "Tangki/Damkar": 50500000,
+          "Crane": 45500000,
+          "Self Loader": 45500000,
+          "Car Carrier": 43500000,
+          "Other": 44500000
+        },
+        "Kuning": {
+          "Bak Besi": 23750000,
+          "Box": null,
+          "Dump": 25000000,
+          "Tangki/Damkar": 28125000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 23750000
+        }
+      },
+      "off_tengah": 418500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDX 6.8",
+      "code": "XZU349R-HKFTBD3",
+      "off_spv": 428856000,
+      "bm": 422358000,
+      "pricelist_otr": 595900000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 45500000,
+          "Box": null,
+          "Dump": 47000000,
+          "Tangki/Damkar": 51500000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 44500000,
+          "Other": 45500000
+        },
+        "Kuning": {
+          "Bak Besi": 23750000,
+          "Box": null,
+          "Dump": 25000000,
+          "Tangki/Damkar": 28125000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 23750000
+        }
+      },
+      "off_tengah": 425500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDX 6.8 PTO",
+      "code": "XZU349R-HKFTBD3-2",
+      "off_spv": 433068000,
+      "bm": 426511500,
+      "pricelist_otr": 599900000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 45500000,
+          "Box": null,
+          "Dump": 47000000,
+          "Tangki/Damkar": 51500000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 44500000,
+          "Other": 45500000
+        },
+        "Kuning": {
+          "Bak Besi": 23750000,
+          "Box": null,
+          "Dump": 25000000,
+          "Tangki/Damkar": 28125000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 23750000
+        }
+      },
+      "off_tengah": 430000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDX 4X4 MT",
+      "code": "",
+      "off_spv": 768078000,
+      "bm": 760866000,
+      "pricelist_otr": null,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 55000000,
+          "Box": null,
+          "Dump": 57000000,
+          "Tangki/Damkar": 61000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 55000000
+        },
+        "Kuning": {
+          "Bak Besi": 23750000,
+          "Box": null,
+          "Dump": 25000000,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 23750000
+        }
+      },
+      "off_tengah": 764500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDX 4X4",
+      "code": "XZU349R-HKFTBD3-4",
+      "off_spv": 789697500,
+      "bm": 782282500,
+      "pricelist_otr": 876200000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 55000000,
+          "Box": null,
+          "Dump": 57000000,
+          "Tangki/Damkar": 61000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 55000000
+        },
+        "Kuning": {
+          "Bak Besi": 23750000,
+          "Box": null,
+          "Dump": 25000000,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 23750000
+        }
+      },
+      "off_tengah": 786000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDX MIXER",
+      "code": "X7U349R-HKFTBD3M",
+      "off_spv": 503592000,
+      "bm": 493544000,
+      "pricelist_otr": 667900000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 498500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136HDX PLANTATION 6.8 PTO",
+      "code": "XZU349R-HKFTBD35P",
+      "off_spv": 456936000,
+      "bm": 447752000,
+      "pricelist_otr": 605000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 452500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115SDB STD",
+      "code": "XZU309R-H RM LAD8",
+      "off_spv": 351870000,
+      "bm": 345530000,
+      "pricelist_otr": 488100000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 348500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115SDB FLEXI CAB",
+      "code": "XZU309R-HRMLAD8",
+      "off_spv": 488429000,
+      "bm": 481707500,
+      "pricelist_otr": 619200000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 485000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "1155DB PRIME CAB",
+      "code": "XZU309R-HRMLAD8",
+      "off_spv": 544564000,
+      "bm": 537070000,
+      "pricelist_otr": 671600000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 541000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115SDBL STD",
+      "code": "XZU349R-HRMLAD8",
+      "off_spv": 376734000,
+      "bm": 369946000,
+      "pricelist_otr": 511400000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 373500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115SDBL 4X4 (NEW)",
+      "code": "",
+      "off_spv": 590017000,
+      "bm": 581897500,
+      "pricelist_otr": null,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 586000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115SDBL FLEXI CAB L",
+      "code": "XZU349R-HRMLAD8",
+      "off_spv": 545872000,
+      "bm": 538360000,
+      "pricelist_otr": 672800000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 542000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "115SDBL PRIME CAB L",
+      "code": "XZU349R-HRMLAD8",
+      "off_spv": 605495000,
+      "bm": 597162500,
+      "pricelist_otr": 727500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 37500000,
+          "Box": null,
+          "Dump": 39500000,
+          "Tangki/Damkar": 43500000,
+          "Crane": 38500000,
+          "Self Loader": 38500000,
+          "Car Carrier": 36500000,
+          "Other": 37500000
+        },
+        "Kuning": {
+          "Bak Besi": 19250000,
+          "Box": null,
+          "Dump": 20500000,
+          "Tangki/Damkar": 23625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 19250000
+        }
+      },
+      "off_tengah": 601500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136MDBL STD",
+      "code": "XZU359R-HRMRBD1",
+      "off_spv": 420560000,
+      "bm": 413050000,
+      "pricelist_otr": 562000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 46500000,
+          "Box": null,
+          "Dump": 47500000,
+          "Tangki/Damkar": 52000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 46000000,
+          "Other": 46500000
+        },
+        "Kuning": {
+          "Bak Besi": 25250000,
+          "Box": null,
+          "Dump": 26500000,
+          "Tangki/Damkar": 29625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 25250000
+        }
+      },
+      "off_tengah": 417000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "136MDBL 4X4(NEW)",
+      "code": "",
+      "off_spv": 654327000,
+      "bm": 645322500,
+      "pricelist_otr": null,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": 46500000,
+          "Box": null,
+          "Dump": 47500000,
+          "Tangki/Damkar": 52000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 46000000,
+          "Other": 46500000
+        },
+        "Kuning": {
+          "Bak Besi": 25250000,
+          "Box": null,
+          "Dump": 26500000,
+          "Tangki/Damkar": 29625000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": 25250000
+        }
+      },
+      "off_tengah": 650000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "GB150 5.5",
+      "code": "XZU720R-WKFSPD1A",
+      "off_spv": 478720000,
+      "bm": 470016000,
+      "pricelist_otr": 592900000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 474500000
+    },
+    {
+      "series": "Hino 300",
+      "type": "GB150 AT 5.8",
+      "code": "XZU720R-WKTSPD1A",
+      "off_spv": 522720000,
+      "bm": 513216000,
+      "pricelist_otr": 634000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 518000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "GB150 L 5.5",
+      "code": "XZU73OR-WKFSPD1A",
+      "off_spv": 487520000,
+      "bm": 478656000,
+      "pricelist_otr": 608000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 483000000
+    },
+    {
+      "series": "Hino 300",
+      "type": "GB150 L AT 5.8",
+      "code": "XZU730R-WKTSPD1A",
+      "off_spv": 527120000,
+      "bm": 517536000,
+      "pricelist_otr": 638600000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 522500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FG 260 JJ",
+      "code": "FG8JJ2D-PGJ",
+      "off_spv": 822560000,
+      "bm": 810920000,
+      "pricelist_otr": 1059500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 75000000,
+          "Tangki/Damkar": 80000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 52000000,
+          "Box": 52000000,
+          "Dump": 52000000,
+          "Tangki/Damkar": 55000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 52000000
+        }
+      },
+      "off_tengah": 816500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FG 260 JK",
+      "code": "FG8JK2A-PGJ",
+      "off_spv": 824680000,
+      "bm": 813010000,
+      "pricelist_otr": 1061500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 76000000,
+          "Tangki/Damkar": 81500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 52500000,
+          "Box": 52500000,
+          "Dump": 52500000,
+          "Tangki/Damkar": 55500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 52500000
+        }
+      },
+      "off_tengah": 819000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FG 260 JK ABS",
+      "code": "FG8JK2A-PGJA",
+      "off_spv": 886160000,
+      "bm": 873620000,
+      "pricelist_otr": 1135500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 76000000,
+          "Tangki/Damkar": 81500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 52500000,
+          "Box": 52500000,
+          "Dump": 52500000,
+          "Tangki/Damkar": 55500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 52500000
+        }
+      },
+      "off_tengah": 880000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FG 260 JL",
+      "code": "FG8JL2A-PGJ",
+      "off_spv": 827860000,
+      "bm": 816145000,
+      "pricelist_otr": 1065500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 76500000,
+          "Tangki/Damkar": 81500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 52500000,
+          "Box": 52500000,
+          "Dump": 52500000,
+          "Tangki/Damkar": 56000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 52500000
+        }
+      },
+      "off_tengah": 822000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FG 260 JP",
+      "code": "FG8JP2A-PGJ",
+      "off_spv": 832100000,
+      "bm": 820325000,
+      "pricelist_otr": 1073500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 73500000,
+          "Tangki/Damkar": 78500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 51000000,
+          "Box": 51000000,
+          "Dump": 51000000,
+          "Tangki/Damkar": 54000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 49500000,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 51000000
+        }
+      },
+      "off_tengah": 826000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FG 260 JS",
+      "code": "FG8JS2A-PGJ",
+      "off_spv": 838460000,
+      "bm": 826595000,
+      "pricelist_otr": 1080000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 76500000,
+          "Tangki/Damkar": 81500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 52500000,
+          "Box": 52500000,
+          "Dump": 52500000,
+          "Tangki/Damkar": 56000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 51000000,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 52500000
+        }
+      },
+      "off_tengah": 832500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FG 260 JU",
+      "code": "FG8.1S2A-PGJL",
+      "off_spv": 851180000,
+      "bm": 839135000,
+      "pricelist_otr": null,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 76500000,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": 57500000,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 845000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FG 260 TH",
+      "code": "FG8JF2B-PG1",
+      "off_spv": 835280000,
+      "bm": 823460000,
+      "pricelist_otr": 1079500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": 77000000,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": 53000000,
+          "Other": null
+        }
+      },
+      "off_tengah": 829500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "SG 280 TH",
+      "code": "SG81F2B-Xal",
+      "off_spv": 980095000,
+      "bm": 966160000,
+      "pricelist_otr": 1248000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 973000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "SG 280 TH ABS",
+      "code": "SG8.1F2B-XGJA",
+      "off_spv": 1029680000,
+      "bm": 1015040000,
+      "pricelist_otr": 1306500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 1022500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FL 260 JN",
+      "code": "FL81N2A-PGJ",
+      "off_spv": 975875000,
+      "bm": 962000000,
+      "pricelist_otr": 1256500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 81000000,
+          "Tangki/Damkar": 85500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 55500000,
+          "Box": 55500000,
+          "Dump": 55500000,
+          "Tangki/Damkar": 58000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 55500000
+        }
+      },
+      "off_tengah": 969000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FL 260 JN ABS",
+      "code": "FL8JN2A-PGIA",
+      "off_spv": 1042340000,
+      "bm": 1027520000,
+      "pricelist_otr": 1326000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 81000000,
+          "Tangki/Damkar": 85500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 55500000,
+          "Box": 55500000,
+          "Dump": 55500000,
+          "Tangki/Damkar": 58000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 55500000
+        }
+      },
+      "off_tengah": 1035000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FL 280 JT",
+      "code": "FL81T2A-XGJ",
+      "off_spv": 1002250000,
+      "bm": 988000000,
+      "pricelist_otr": 1278500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 82000000,
+          "Tangki/Damkar": 86500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 56000000,
+          "Box": 56000000,
+          "Dump": 56000000,
+          "Tangki/Damkar": 58500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 56000000
+        }
+      },
+      "off_tengah": 995000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FL 260 JW (EIV)",
+      "code": "FL8JW2A-PG1",
+      "off_spv": 988535000,
+      "bm": 974480000,
+      "pricelist_otr": 1268500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 80000000,
+          "Tangki/Damkar": 84500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 55000000,
+          "Box": 55000000,
+          "Dump": 55000000,
+          "Tangki/Damkar": 57500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 55000000
+        }
+      },
+      "off_tengah": 981500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FL 260 JW ABS (EIV)",
+      "code": "FL81W2A-PGJA",
+      "off_spv": 1053945000,
+      "bm": 1038960000,
+      "pricelist_otr": 1340000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 80000000,
+          "Tangki/Damkar": 84500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 55000000,
+          "Box": 55000000,
+          "Dump": 55000000,
+          "Tangki/Damkar": 57500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 55000000
+        }
+      },
+      "off_tengah": 1046500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FL 280 JW",
+      "code": "FL8JW2A-XGJ",
+      "off_spv": 1017020000,
+      "bm": 1002560000,
+      "pricelist_otr": 1296500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 80000000,
+          "Tangki/Damkar": 84500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 55000000,
+          "Box": 55000000,
+          "Dump": 55000000,
+          "Tangki/Damkar": 57500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 55000000
+        }
+      },
+      "off_tengah": 1010000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FLX 280 JW",
+      "code": "FL81W2A-XGJY",
+      "off_spv": 1115135000,
+      "bm": 1099280000,
+      "pricelist_otr": null,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 71500000,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 50000000,
+          "Box": 50000000,
+          "Dump": 50000000,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 50000000
+        }
+      },
+      "off_tengah": 1107000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 280 JM",
+      "code": "FM8JK2M-Xal",
+      "off_spv": 1200150000,
+      "bm": 1183005000,
+      "pricelist_otr": 1497500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 99500000,
+          "Tangki/Damkar": 104000000,
+          "Mixer": 103000000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 66500000,
+          "Box": 66500000,
+          "Dump": 66500000,
+          "Tangki/Damkar": 69000000,
+          "Mixer": 68500000,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": 66500000
+        }
+      },
+      "off_tengah": 1191500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 280 JD",
+      "code": "FM8JN2D-XGJ",
+      "off_spv": 1210650000,
+      "bm": 1193355000,
+      "pricelist_otr": 1585000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 100500000,
+          "Tangki/Damkar": 105000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": 98000000,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 67000000,
+          "Box": 67000000,
+          "Dump": 67000000,
+          "Tangki/Damkar": 69500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": 65500000,
+          "Tractor Head": null,
+          "Other": 67000000
+        }
+      },
+      "off_tengah": 1202000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 280 JD ABS",
+      "code": "FM8JN2D-XGJA",
+      "off_spv": 1264200000,
+      "bm": 1246140000,
+      "pricelist_otr": 1640500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 100500000,
+          "Tangki/Damkar": 105000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": 98000000,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 67000000,
+          "Box": 67000000,
+          "Dump": 67000000,
+          "Tangki/Damkar": 69500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": 65500000,
+          "Tractor Head": null,
+          "Other": 67000000
+        }
+      },
+      "off_tengah": 1255000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 280 JW",
+      "code": "FM8JW2A-XGJ",
+      "off_spv": 1243200000,
+      "bm": 1225440000,
+      "pricelist_otr": 1641000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 109500000,
+          "Tangki/Damkar": 114000000,
+          "Mixer": null,
+          "Crane": 109000000,
+          "Self Loader": 109500000,
+          "Car Carrier": null,
+          "Flat Deck": 107000000,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 72500000,
+          "Box": 72500000,
+          "Dump": 72500000,
+          "Tangki/Damkar": 75000000,
+          "Mixer": 74500000,
+          "Crane": 72000000,
+          "Self Loader": 72500000,
+          "Car Carrier": null,
+          "Flat Deck": 16000000,
+          "Tractor Head": null,
+          "Other": 72500000
+        }
+      },
+      "off_tengah": 1234500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 280 JD MINING",
+      "code": "FM8JN2D-XGJ1",
+      "off_spv": 1237950000,
+      "bm": 1220265000,
+      "pricelist_otr": 1637500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 100500000,
+          "Tangki/Damkar": 105000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": 98000000,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 67000000,
+          "Box": 67000000,
+          "Dump": 67000000,
+          "Tangki/Damkar": 69500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": 65500000,
+          "Tractor Head": null,
+          "Other": 67000000
+        }
+      },
+      "off_tengah": 1229000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 280 JD M RETARDER",
+      "code": "",
+      "off_spv": 1434300000,
+      "bm": 1413810000,
+      "pricelist_otr": null,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": 100500000,
+          "Tangki/Damkar": 105000000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": 98000000,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": 67000000,
+          "Box": 67000000,
+          "Dump": 67000000,
+          "Tangki/Damkar": 69500000,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": 65500000,
+          "Tractor Head": null,
+          "Other": 67000000
+        }
+      },
+      "off_tengah": 1424000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 340 PL MINING",
+      "code": "FM2PL2D-MGJ",
+      "off_spv": 1442700000,
+      "bm": 1422090000,
+      "pricelist_otr": 1947000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 1432500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 340 PD MINING",
+      "code": "FM2PN2D-MGJ",
+      "off_spv": 1445850000,
+      "bm": 1425195000,
+      "pricelist_otr": 1725500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 1435500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 280 TH",
+      "code": "FM8JK2B-XGJ",
+      "off_spv": 1234800000,
+      "bm": 1217160000,
+      "pricelist_otr": 1551500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 1226000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 280 TH ABS",
+      "code": "FM8JK2B-XGJA",
+      "off_spv": 1278900000,
+      "bm": 1260630000,
+      "pricelist_otr": 1591000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 1270000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 340 TH",
+      "code": "FM2PL2B-MGJ1",
+      "off_spv": 1405950000,
+      "bm": 1385865000,
+      "pricelist_otr": 1701000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": 81500000,
+          "Other": null
+        }
+      },
+      "off_tengah": 1396000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "FM 340 TH ABS",
+      "code": "FM2PL2B-MGJB",
+      "off_spv": 1433250000,
+      "bm": 1412775000,
+      "pricelist_otr": 1747000000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": 81500000,
+          "Other": null
+        }
+      },
+      "off_tengah": 1423000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "AK240 STD",
+      "code": "AK8JRLA-PJJ",
+      "off_spv": 796620000,
+      "bm": 785400000,
+      "pricelist_otr": 1136200000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 791000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "RK280 STD",
+      "code": "RK81SLA-P11",
+      "off_spv": 967780000,
+      "bm": 954085000,
+      "pricelist_otr": 1287500000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 961000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "RK280 ABS",
+      "code": "RK81SLA-P1JA",
+      "off_spv": 982620000,
+      "bm": 968715000,
+      "pricelist_otr": 1298300000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 975500000
+    },
+    {
+      "series": "Hino 500",
+      "type": "RM280 ABS",
+      "code": "RM81SLU-Q1JA",
+      "off_spv": 1122540000,
+      "bm": 1101360000,
+      "pricelist_otr": 1443600000,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 1112000000
+    },
+    {
+      "series": "Hino 500",
+      "type": "RM280 ABS RETARDER (NEW)",
+      "code": "RM81SLU-Q1JA",
+      "off_spv": 1228360000,
+      "bm": 1199660000,
+      "pricelist_otr": null,
+      "bbn": {
+        "Hitam": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        },
+        "Kuning": {
+          "Bak Besi": null,
+          "Box": null,
+          "Dump": null,
+          "Tangki/Damkar": null,
+          "Mixer": null,
+          "Crane": null,
+          "Self Loader": null,
+          "Car Carrier": null,
+          "Flat Deck": null,
+          "Tractor Head": null,
+          "Other": null
+        }
+      },
+      "off_tengah": 1214000000
+    }
+  ],
+  "body_options": {
+    "Hino 300": [
+      "Bak Besi",
+      "Box",
+      "Dump",
+      "Tangki/Damkar",
+      "Crane",
+      "Self Loader",
+      "Car Carrier",
+      "Other"
+    ],
+    "Hino 500": [
+      "Bak Besi",
+      "Box",
+      "Dump",
+      "Tangki/Damkar",
+      "Mixer",
+      "Crane",
+      "Self Loader",
+      "Car Carrier",
+      "Flat Deck",
+      "Tractor Head",
+      "Other"
+    ]
+  },
+  "notes": [
+    "Harga OFF sementara menggunakan SPV Agustus 2026.",
+    "Harga Pricelist Hino 300 berasal dari pricelist chassis Jan-Jun 2026; Hino 500 dari pricelist 2026 yang tersimpan.",
+    "BBN mengikuti tabel BBN/Pajak VIN 2026; beberapa baris sumber mengandung #REF!, sehingga aplikasi tidak mengarang nilai dan akan menampilkan tidak tersedia."
+  ],
+  "pricelist_source": "Harga Hino 300 & 500 periode Oktober–Desember 2026; harga chassis/pricelist, karoseri belum termasuk."
+}

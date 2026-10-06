@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kalkulator HINO Lubuklinggau</title>
+<link rel="manifest" href="manifest.json"><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><div class="brand-mark">H</div><div><h1>Kalkulator HINO</h1><p>Thamrin Lubuklinggau</p></div></div>
+  <span class="badge">2026</span>
+</header>
+
+<main>
+<section class="hero card">
+  <div class="hero-copy">
+    <span class="eyebrow">SALES CALCULATOR</span>
+    <h2>Hitung unit HINO<br><strong>lebih cepat & rapi.</strong></h2>
+    <p>Pilih unit, karoseri, plat, lalu lihat harga nett dan simulasi angsuran dalam satu layar.</p>
+    <div class="quick-tags"><span>HINO 300</span><span>HINO 500</span><span>Leasing</span></div>
+  </div>
+  <div class="unit-visual">
+    <div class="visual-glow"></div>
+    <img id="unitImage" src="https://www.hino.co.id/assets/uploads/products/c60a15729ef206da7f96411d6c0f522b.png" alt="Unit HINO">
+    <div class="visual-caption"><span id="visualSeries">HINO 300</span><b id="visualType">136 HDX</b></div>
+  </div>
+</section>
+
+<section class="card step-card">
+  <div class="section-head"><div><span class="step">01</span><h2>Pilih Unit</h2></div><span class="hint">Data kendaraan</span></div>
+  <div class="field-grid">
+    <label>Series<select id="series"></select></label>
+    <label>Tipe Unit<select id="type"></select></label>
+    <label>Karoseri<select id="body"></select></label>
+    <label>Warna Plat<select id="plate"><option selected>Hitam</option><option>Kuning</option></select></label>
+    <label>Dasar Harga OFF<select id="offSource"><option value="spv">SPV</option><option value="bm">BM</option><option value="tengah" selected>Harga Tengah</option></select></label>
+    <label class="full">Harga Karoseri<input id="bodyPrice" inputmode="numeric" placeholder="Rp 0"></label>
+  </div>
+</section>
+
+<section class="card price-card">
+  <div class="section-head"><div><span class="step">02</span><h2>Ringkasan Harga</h2></div><span class="unit-pill" id="unitTitle">-</span></div>
+  <div class="price-grid">
+    <div class="price-row"><span>Harga OFF <small id="offLabel">Tengah</small></span><b id="off">-</b></div>
+    <div class="off-compare"><div><span>SPV</span><b id="offSpv">-</b></div><div><span>BM</span><b id="offBm">-</b></div><div><span>Tengah</span><b id="offTengah">-</b></div></div>
+    <div class="price-row"><span>BBN</span><b id="bbn">-</b></div>
+    <div class="price-row"><span>Harga Karoseri</span><b id="karoseri">-</b></div>
+    <div class="price-row highlight"><span>Harga ON Nett</span><b id="onNett">-</b></div>
+    <div class="price-row"><span>Harga Pricelist</span><b id="pricelist">-</b></div>
+    <div class="price-row"><span>Harga OTR</span><b id="otr">-</b></div>
+    <div class="price-row discount"><span>Diskon Dealer</span><b id="discDealer">-</b></div>
+  </div>
+</section>
+
+
+<section class="card step-card leasing-card">
+  <div class="section-head"><div><span class="step">03</span><h2>Simulasi Leasing</h2></div><span class="hint">HFI / IMFI</span></div>
+  <div class="sales-bridge">
+    <div><span>OTR Leasing</span><b id="salesOtrLease">-</b></div>
+    <div><span>Harga ON Nett</span><b id="salesOnNett">-</b></div>
+    <div><span>Diskon DP</span><b id="salesDiskonDp">-</b></div>
+    <label>TDP / DP Setor ke Leasing<input id="salesTdp" inputmode="numeric" placeholder="Rp 0"></label>
+    <div class="sales-result"><span>DP Setor setelah Diskon DP</span><b id="salesDpSetor">-</b></div>
+  </div>
+  <div class="field-grid">
+    <label>Perusahaan Leasing
+      <select id="finance">
+        <option value="HFI">Hino Finance (HFI) — Flat</option>
+        <option value="IMFI">Indomobil Finance (IMFI)</option>
+      </select>
+    </label>
+    <label>Harga OTR Leasing
+      <input id="otrLease" inputmode="numeric" placeholder="Rp 0">
+    </label>
+    <label>DP / Uang Muka (%)
+      <input id="dpPct" inputmode="decimal" value="20">
+    </label>
+    <label>Tenor (bulan)
+      <select id="tenor">
+        <option value="24">24</option><option value="36">36</option>
+        <option value="47">47</option><option value="48">48</option><option value="60">60</option>
+      </select>
+    </label>
+    <label>Bunga Flat / Tahun (%)
+      <input id="leaseRate" inputmode="decimal" value="6.44">
+    </label>
+    <label>Subsidi HMSI
+      <input id="subsidy" inputmode="numeric" value="0">
+    </label>
+    <label class="full">Angsuran Manual (opsional)
+      <input id="manualInstallment" inputmode="numeric" placeholder="Kosongkan untuk hitung otomatis">
+    </label>
+  </div>
+
+  <div id="hfiFields" class="finance-fields">
+    <div class="finance-title">Parameter Hino Finance — semua biaya awal</div>
+    <div class="field-grid">
+      <label>TLO (% OTR)
+        <input id="hfiTlo" inputmode="decimal" value="0.88">
+      </label>
+      <label>TPL / TJH
+        <input id="hfiTpl" inputmode="numeric" value="630000">
+      </label>
+      <label>Biaya Admin
+        <input id="hfiAdmin" inputmode="numeric" value="2500000">
+      </label>
+      <label>Provisi (%)
+        <input id="hfiProvisi" inputmode="decimal" value="1.00">
+      </label>
+    </div>
+  </div>
+
+  <div id="imfiFields" class="finance-fields" style="display:none">
+    <div class="finance-title">Parameter IMFI — semua biaya awal</div>
+    <div class="field-grid">
+      <label>TLO / Asuransi (Rp)
+        <input id="imfiTlo" inputmode="numeric" value="0">
+      </label>
+      <label>Admin + Polis
+        <input id="imfiAdmin" inputmode="numeric" value="3575000">
+      </label>
+      <label>Fidusia
+        <input id="imfiFiducia" inputmode="numeric" value="850000">
+      </label>
+      <label>Provisi (%)
+        <input id="imfiProvisi" inputmode="decimal" value="1.00">
+      </label>
+    </div>
+  </div>
+
+  <div class="mini-summary">
+    <div><span>DP / Uang Muka</span><b id="dpNominal">-</b></div>
+    <div><span>Nilai Pembiayaan</span><b id="financePrincipal">-</b></div>
+    <div><span>Angsuran Pertama</span><b id="firstInstallment">-</b></div>
+    <div><span>Biaya Proses</span><b id="processCost">-</b></div>
+    <div class="wide"><span>Total Pembayaran Pertama / TDP</span><b id="tdpTotal">-</b></div>
+    <div class="wide accent"><span>Pencairan ke Dealer</span><b id="dealerDisbursement">-</b></div>
+  </div>
+</section>
+
+<section class="card installment-card">
+  <div class="section-head"><div><span class="step">04</span><h2>Angsuran Bulanan</h2></div><span class="hint" id="installmentHint">HFI / IMFI</span></div>
+  <p class="muted">Untuk HFI, rumus mengikuti struktur simulasi pada contoh: nilai pembiayaan + asuransi tahun 2/3 menjadi basis angsuran, lalu bunga flat sesuai tenor. Angsuran manual dapat dipakai bila sudah ada paket resmi dari leasing.</p>
+  <div id="installments" class="installments"></div>
+</section>
+<section class="card source-card"><h2>Catatan</h2><ul><li>Harga OFF bisa dipilih: SPV, BM, atau Harga Tengah = (BM + SPV) / 2, dibulatkan ke Rp500.000.</li><li>BBN mengikuti warna plat dan kategori karoseri.</li><li>Data yang tidak tersedia tidak akan dibuat-buat oleh aplikasi.</li></ul></section>
+</main>
+<footer>Sales HINO • <strong>0831-8165-5166</strong></footer>
+<script src="script.js"></script>
+</body></html>
